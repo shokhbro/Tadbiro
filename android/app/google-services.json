@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1068942039453",
+    "project_id": "lesson47",
+    "storage_bucket": "lesson47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068942039453:android:dcf15fb32b2bc28dda7774",
+        "android_client_info": {
+          "package_name": "com.example.tadbiro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhn1rfl2QrNetS0zB1M2cC78Quf9-m67c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
